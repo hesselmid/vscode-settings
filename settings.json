@@ -1,0 +1,11 @@
+{
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "svelte.enable-ts-plugin": true,
+  "editor.fontFamily": "'Operator Mono SSm',Menlo, Monaco, 'Courier New', monospace",
+  "prettier.documentSelectors": ["**/*.svelte"],
+  "[svelte]": {
+    "editor.defaultFormatter": "svelte.svelte-vscode"
+  },
+  "workbench.colorTheme": "GitHub Dark"
+}
