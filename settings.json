@@ -1,4 +1,13 @@
 {
+  /** Hide things **/
+
+  "editor.minimap.enabled": false,
+  "workbench.layoutControl.enabled": false,
+
+  /** Tidy Up */
+
+  "breadcrumbs.enabled": false,
+
   /** Typography **/
 
   "editor.fontFamily": "Operator Mono SSm",
