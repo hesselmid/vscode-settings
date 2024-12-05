@@ -1,4 +1,9 @@
 {
+  /** Default overrides **/
+
+  "workbench.tree.indent": 12,
+  "explorer.compactFolders": false,
+
   /** Hide things **/
 
   "editor.minimap.enabled": false,
@@ -7,6 +12,7 @@
   /** Tidy Up */
 
   "breadcrumbs.enabled": false,
+  "workbench.editor.labelFormat": "short",
 
   /** Typography **/
 
