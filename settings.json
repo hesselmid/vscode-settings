@@ -12,6 +12,7 @@
   /** Tidy Up */
 
   "breadcrumbs.enabled": false,
+  "workbench.startupEditor": "none",
   "workbench.editor.labelFormat": "short",
 
   /** Typography **/
